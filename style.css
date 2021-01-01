@@ -1,0 +1,28 @@
+body {
+  background-color: red;
+}
+h1{
+  color: white;
+  font-size: 24px;
+  font-family: Arial, Helvetica, san-serif; 
+}
+
+img{
+  width: 100%;
+}
+
+.header{
+  background: black;
+  padding-left: 10px
+}
+
+p, li{
+  color: white;
+  font-family: Arial, Helvetica, san-serif;
+}
+
+.footer{
+  background: black;
+  color: white;
+  padding-left: 10px;
+}
